@@ -15,3 +15,6 @@ And adds timestamp to the name of the downloaded document
 1. Download the code and put in necessary inputs (your url, path, etc)
 2. Turn your .py file into a .exe file. I use py-to-exe lib. https://pypi.org/project/auto-py-to-exe/
 3. Use Task Scheduler to run the .exe file whenever you want. 
+
+<b>Additional Note</b> <br>
+This is my first git project, and at the time of creation, I still wasn't fully familiar with .venv's. There is a possibility some of the requirements aren't necessary. 
