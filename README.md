@@ -12,7 +12,7 @@ Moves the document to a folder designated by the user<br>
 And adds timestamp to the name of the downloaded document
 
 <b>How to enable automated backup on Windows</b>
-1. Download the code and put in necessary inputs (your url, path, etc)
+1. Download the code and put in necessary inputs (your url and download folder path).
 2. Turn your .py file into a .exe file. I use py-to-exe lib. https://pypi.org/project/auto-py-to-exe/
 3. Use Task Scheduler to run the .exe file whenever you want. 
 
